@@ -1,4 +1,10 @@
 # UFOs :  What is up there?
+##   Resources:
+Data Source: ufo_starterCode.js and index.html
+
+Data Tools: ECMAScript, JavaScript, Jupyter Notebook, Python and MongoDB
+
+Software: ES6+, ECMAScript, MongoDB, Python 3.8.3, Visual Studio Code 1.50.0
 
 <p align="center">
    <img width="400" height="200" src="https://github.com/jacquie0583/UFOs/blob/main/image%201.jpg">
